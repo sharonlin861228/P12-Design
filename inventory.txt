@@ -1,0 +1,5 @@
+coke 1.99 10
+green_tea 0.69 10
+black_tea 0.69 10
+chips 1.20 10
+banana 0.69 12

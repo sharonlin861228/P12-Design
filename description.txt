@@ -1,0 +1,3 @@
+displayItems(machine) - show the customers all the items, their price, and the amount left
+chooseItemAndPay(machine) - let the customers to choose what they want and chooses how they want to pay. The function will calculate how much to change.
+def main() - The function will calculate how much the machine will gain
